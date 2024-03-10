@@ -1,4 +1,4 @@
-public class PalindromeNumber {
+public class L9_PalindromeNumber {
     public boolean isPalindrome(int x) {
         String str = String.valueOf(x);
         int a = 0, b = str.length() - 1;

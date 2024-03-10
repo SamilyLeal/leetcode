@@ -1,4 +1,4 @@
-public class NumberOf1Bit {
+public class L191_NumberOf1Bit {
     public int hammingWeight(int n) {
         int t = 0;
 

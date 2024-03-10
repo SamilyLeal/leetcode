@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class MaximumProductDifferenceBetweenTwoPairs {
+public class L1913_MaximumProductDifferenceBetweenTwoPairs {
     public int maxProductDifference(int[] nums) {
         Arrays.sort(nums);
         int n = nums.length - 1;
